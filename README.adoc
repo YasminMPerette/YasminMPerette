@@ -1,3 +1,6 @@
+
+
+
 = ✈️ Emy Trip - Sistema de Gestão de Viagens
 
 :icons: font
@@ -85,17 +88,12 @@ Este projeto está sob a **Licença MIT**, permitindo uso livre com atribuição
 
 
 == 🙏 Agradecimentos
-== 🧾 Criação do Software
-
-
-
-## 🙏 Agradecimentos
 
 Agradecemos à equipe da **Emy Trip**, clientes que participaram dos testes iniciais e à comunidade open source por tornar este projeto possível.
 
----
 
-## 🧾 Criação do Software
+== 🧾 Criação do Software
+
 
 **Nome do software:** Emy Trip – Sistema de Gestão de Viagens
 **Objetivo principal:** Facilitar o gerenciamento de pacotes turísticos e reservas para agências e seus clientes, tornando o processo mais ágil e profissional.
@@ -114,6 +112,4 @@ Agradecemos à equipe da **Emy Trip**, clientes que participaram dos testes inic
   **Modelos disponíveis:**
 * 🎁 **Versão Gratuita:** Cadastro de pacotes, reservas, painel do cliente e dashboard simples.
 * 💼 **Versão Pro:** Integração com pagamentos, relatórios avançados, CRM de clientes e suporte dedicado.
-
----
 
