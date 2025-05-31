@@ -64,10 +64,10 @@ Com o servidor em execução, acesse a documentação interativa via Swagger:
 Siga os passos abaixo para contribuir com melhorias ou novas funcionalidades:
 
 1. Faça um fork deste repositório
-2. Crie uma branch: `git checkout -b minha-feature`
+2. Crie uma branch:  `git checkout -b minha-feature`
 3. Faça suas alterações
-4. Commit: `git commit -m 'Nova feature'`
-5. Push: `git push origin minha-feature`
+4. Commit:  `git commit -m 'Nova feature'`
+5. Push:  `git push origin minha-feature`
 6. Abra um Pull Request
 
 
