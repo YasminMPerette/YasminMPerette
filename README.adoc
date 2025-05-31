@@ -10,6 +10,16 @@
 
 
 == 🚀 Recursos
+
+* 🧳 Cadastro e gerenciamento de pacotes turísticos
+* 📅 Reserva de viagens com confirmação automática
+* 💬 Atendimento integrado via chat e e-mail
+* 👥 Painel de controle para clientes e agentes de viagem
+* 💳 Integração com sistemas de pagamento
+* 🌍 Consulta de destinos e atrações com filtros inteligentes
+* 📱 API REST para integrações com apps e parceiros
+
+
 == 📦 Tecnologias Utilizadas
 == 🎮 Como Executar
 == 📚 Documentação da API
@@ -19,19 +29,6 @@
 == 🙏 Agradecimentos
 == 🧾 Criação do Software
 
-
-
-## 🚀 Recursos
-
-* 🧳 **Cadastro e gerenciamento de pacotes turísticos**
-* 📅 **Reserva de viagens com confirmação automática**
-* 💬 **Atendimento integrado via chat e e-mail**
-* 👥 **Painel de controle para clientes e agentes de viagem**
-* 💳 **Integração com sistemas de pagamento**
-* 🌍 **Consulta de destinos e atrações com filtros inteligentes**
-* 📱 **API REST para integrações com apps e parceiros**
-
----
 
 ## 📦 Tecnologias Utilizadas
 
