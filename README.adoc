@@ -51,36 +51,16 @@ Inicie a aplicação:
 mvn spring-boot:run
 ```
 
-Acesse em: http://localhost:8080 http://localhost:8080
-
+Acesse em: http://localhost:8080 
 
 == 📚 Documentação da API
 
 
 Com o servidor em execução, acesse a documentação interativa via Swagger:
-
-[http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+(http://localhost:8080/swagger-ui.html)
 
 
 == 🤝 Contribuindo
-== 📄 Licença
-== ✉️ Contato
-== 🙏 Agradecimentos
-== 🧾 Criação do Software
-
-
-
-
-
----
-
-## 📚 Documentação da API
-
-
-
----
-
-## 🤝 Contribuindo
 
 Siga os passos abaixo para contribuir com melhorias ou novas funcionalidades:
 
@@ -91,21 +71,23 @@ Siga os passos abaixo para contribuir com melhorias ou novas funcionalidades:
 5. Push: `git push origin minha-feature`
 6. Abra um Pull Request
 
----
 
-## 📄 Licença
+== 📄 Licença
 
 Este projeto está sob a **Licença MIT**, permitindo uso livre com atribuição. Veja [LICENSE](LICENSE) para mais informações.
 
----
 
-## ✉️ Contato
+== ✉️ Contato
 
-* Email: [contato@emytrip.com](mailto:contato@emytrip.com)
-* GitHub: [seu-usuario](https://github.com/seu-usuario)
-* LinkedIn: [Seu Nome](https://linkedin.com/in/seu-nome)
+* Email: mailto:contato@emytrip.com
+* GitHub: [YasminMPerette https://github.com/YasminMPerette
+* LinkedIn: Yasmin Marques Perette https://linkedin.com/in/YasminMarquesPerette
 
----
+
+== 🙏 Agradecimentos
+== 🧾 Criação do Software
+
+
 
 ## 🙏 Agradecimentos
 
@@ -135,4 +117,3 @@ Agradecemos à equipe da **Emy Trip**, clientes que participaram dos testes inic
 
 ---
 
-Se quiser, posso exportar este conteúdo como arquivo `.md` para download. Deseja que eu gere o arquivo para você?
