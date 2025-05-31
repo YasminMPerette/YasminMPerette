@@ -79,7 +79,7 @@ Este projeto está sob a **Licença MIT**, permitindo uso livre com atribuição
 == ✉️ Contato
 
 * Email: mailto:contato@emytrip.com
-* GitHub: [YasminMPerette https://github.com/YasminMPerette
+* GitHub: YasminMPerette https://github.com/YasminMPerette
 * LinkedIn: Yasmin Marques Perette www.linkedin.com/in/yasmin-marques-perette-045663346
 
 
@@ -95,13 +95,16 @@ Agradecemos à equipe da **Emy Trip**, clientes que participaram dos testes inic
 **Objetivo principal:** Facilitar o gerenciamento de pacotes turísticos e reservas para agências e seus clientes, tornando o processo mais ágil e profissional.
 **Problema que resolve:** Desorganização em processos de reserva, controle manual de pacotes, atendimento demorado e falta de integração com plataformas digitais.
 **Tipo de software:** Pronto para uso, com possibilidade de personalização conforme as necessidades da agência.
+
 **Licenciamento:**
 
 * ✅ **Software livre**, com código aberto sob a licença MIT.
 * 💸 **Gratuito** para agências pequenas ou uso educacional.
 * 🕒 Possui **licença de uso perpétuo** na versão gratuita.
 * 📆 **Licença por assinatura** disponível para a **versão Pro**, com mais funcionalidades.
-  **Distribuição:**
+ 
+**Distribuição:**
+
 * 🌐 **Digital**, com repositório no GitHub, além de instalação via site oficial ou loja de aplicativos (em desenvolvimento).
   **Plataformas:**
 * 🖥️ Web (versão responsiva para desktop e mobile).
