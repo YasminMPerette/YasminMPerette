@@ -5,6 +5,10 @@
 :toclevels: 2
 
 == 🎯 Sobre o Projeto
+
+**Emy Trip** é um sistema desenvolvido especialmente para agências de turismo e seus clientes, oferecendo uma solução completa para o **gerenciamento de pacotes de viagem**, reservas, atendimento ao cliente e controle de destinos. Criado com tecnologias modernas como **Spring Boot**, **JPA** e **MySQL**, o sistema é ideal para agências que desejam otimizar seus processos internos e oferecer uma experiência de alto nível aos viajantes.
+
+
 == 🚀 Recursos
 == 📦 Tecnologias Utilizadas
 == 🎮 Como Executar
@@ -15,13 +19,7 @@
 == 🙏 Agradecimentos
 == 🧾 Criação do Software
 
----
 
-## 🎯 Sobre o Projeto
-
-**Emy Trip** é um sistema desenvolvido especialmente para agências de turismo e seus clientes, oferecendo uma solução completa para o **gerenciamento de pacotes de viagem**, reservas, atendimento ao cliente e controle de destinos. Criado com tecnologias modernas como **Spring Boot**, **JPA** e **MySQL**, o sistema é ideal para agências que desejam otimizar seus processos internos e oferecer uma experiência de alto nível aos viajantes.
-
----
 
 ## 🚀 Recursos
 
